@@ -1,6 +1,5 @@
 # cycling
-Exploration of race results by World Tour riders
 
-Scraped World Tour rider racing results from CQranking
-Visualized race results and engineered features to predict Tour de France results
+Scraped World Tour rider racing results from CQranking  
+Visualized race results and engineered features to predict Tour de France results  
 Built a logistic regression model to predict Tour de France results
